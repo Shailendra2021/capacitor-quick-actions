@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorQuickActions',
+      name: 'tlcCapacitorQuickActions',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },

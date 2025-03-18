@@ -1,5 +1,5 @@
 import UIKit
-import CapacitorQuickActions
+import TlcCapacitorQuickActions
 import Capacitor
 
 @UIApplicationMain

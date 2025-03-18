@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "CapacitorQuickActions",
+    name: "TlcCapacitorQuickActions",
     platforms: [.iOS(.v14)],
     products: [
         .library(
-            name: "CapacitorQuickActions",
+            name: "TlcCapacitorQuickActions",
             targets: ["QuickActionsPlugin"])
     ],
     dependencies: [
